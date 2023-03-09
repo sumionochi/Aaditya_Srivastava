@@ -13,7 +13,7 @@
 - 📫 How to reach me **aaditya.uwwu@gmail.com** or **@Aaditya48460615** Twitter DM 
 
 
-- ⚡ Fun fact **I am calm and inquisitive.**
+- ⚡ I like being **calm and inquisitive.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
