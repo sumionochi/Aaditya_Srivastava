@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Aaditya Srivastava</h1>
 <h3 align="center">A passionate Full Stack Web Developer.</h3>
 <img align="right" alt="Coding" width="450" src="https://media.giphy.com/media/UwTmRbhSoxu15j2OdG/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumionochi&label=Profile%20views&color=0e75b6&style=flat" alt="sumionochi" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/Aaditya48460615" target="blank"></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Currently working on Plume OS.
 
 - 💬 Ask me about **HTML , CSS , JS , MERN , Tailwind , Redux , DSA , Leetcode , Codestudio**
 
