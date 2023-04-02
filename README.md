@@ -29,11 +29,5 @@
 <hr>
 <h3 align="left">Github Stat's:</h3>
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumionochi&show_icons=true&locale=en&layout=compact" alt="sumionochi"></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumionochi&show_icons=true&locale=en" alt="sumionochi"></p>
-<hr>
-<h3 align="left">Streaks and Achievement:</h3>
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumionochi&" alt="sumionochi" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumionochi" alt="sumionochi" /></a> </p>
-<hr>
-<img src="https://raw.githubusercontent.com/dibyendu415/dibyendu415/5139138b957a523e2fd76f61e5f2cf5df67d7dc9/marquee.svg" height="100">
 
