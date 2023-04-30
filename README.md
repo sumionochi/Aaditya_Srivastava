@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML , CSS , JS , MERN , Tailwind , Redux , DSA , Leetcode , Codestudio**
 
-- 📫 How to reach me **aaditya.uwwu@gmail.com** or **@Aaditya48460615** Twitter DM 
+- 📫 How to reach me **aaditya.srivastava.connect@gmail.com** or **@Aaditya48460615** Twitter DM 
 
 
 - ⚡ I like being **calm and inquisitive.**
